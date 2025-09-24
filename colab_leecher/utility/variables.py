@@ -103,10 +103,5 @@ class MSG:
 
 
 
-class Aria2c:
-    link_info = False
-    pic_dwn_url = "https://picsum.photos/900/600"
-
-
 class Gdrive:
     service = None
