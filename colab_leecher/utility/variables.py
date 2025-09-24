@@ -105,7 +105,7 @@ class MSG:
 
 class Aria2c:
     link_info = False
-    pic_dwn_url = "url img"
+    pic_dwn_url = None
 
 
 class Gdrive:
